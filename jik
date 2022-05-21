@@ -185,7 +185,7 @@ class instagram:
 [{H}➣{C}]USERNAME      : {self.username}
 [{H}➣{C}]FOLLOWERS     : {followers}
 [{H}➣{C}]FOLLOWING     : {following}'''
-			print(WELCOME)
+			
 			io='[01] Crack Dari Pencarian\n[02] Crack Dari Pengikut\n[03] Crack dari Mengikuti\n[04] Check Status Crack\n[05] Lihat Hasil Crack\n[06] Bot Auto Unfollow\n[R] Laporkan Bug\n[C] Changelog\n[E] Exit'
 			oi = nel(io, style='cyan')
 			cetak(nel(oi, title='MENU'))
